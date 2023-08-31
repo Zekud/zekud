@@ -21,12 +21,12 @@ I am curious about Web development👨‍💻👨‍💻 and programming😎.
 
 👯 I’m looking for internship opportunities and collaborate on react projects.
 
-⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.Just like good code, honey stands the test of time 🍯👩‍💻 #CodeAndHoney.
+⚡ Fun fact: Did you know that honey never spoils? Just like good code, honey stands the test of time 🍯👩‍💻 #CodeAndHoney.
 
 👋 Pronouns: He/him. Just like code, clear communication is key!".
 
 🛠️ Tools & Technologies:
-<p align="center">
+<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
