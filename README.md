@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Zekariyas Kumsa and I am software enginnering student in Addis Ababa Science and Technology University(AASTU).
+I am <b>Zekariyas Kumsa<b> and I am software enginnering student at Addis Ababa Science and Technology University(<b>AASTU<b>).
 I am curious about Web development👨‍💻👨‍💻 and programming😎.
 
 🔭 I've already learnt react and  currently working on some projects.
