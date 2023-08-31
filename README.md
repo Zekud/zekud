@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 -->
 I am Zekariyas Kumsa and I am software enginnering student in Addis Ababa Science and Technology University(AASTU).
 I am curious about Web development👨‍💻👨‍💻 and programming😎.
+
 🔭 I've already learnt react and  currently working on some projects.
+
 👯 I’m looking for internship opportunities and collaborate on react projects.
-⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. 
-              Just like good code, honey stands the test of time 🍯👩‍💻 #CodeAndHoney.
+
+⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.Just like good code, honey stands the test of time 🍯👩‍💻 #CodeAndHoney.
+
 👋 Pronouns: He/him. Just like code, clear communication is key!".
+
 🛠️ Tools & Technologies:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
