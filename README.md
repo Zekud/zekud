@@ -38,11 +38,15 @@ I am curious about Web development👨‍💻👨‍💻 and programming😎.
 📱 Let's connect:
 - Instagram: [@Zekua](https://instagram.com/z.e.k.u.a)
 - Telegram: [@Zekua12](https://t.me/Zekua12)
-- LinkedIn: [<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons"></a>](https://www.linkedin.com/in/zekariyas-kumsa)
+- LinkedIn: [<img src="https://github.com/Zekud/zekud/assets/99693126/04b9ec8e-637c-41d8-a861-175c94b04426">](https://www.linkedin.com/in/zekariyas-kumsa)
   
 Feel free to reach out on any of these platforms. Let's chat, share ideas, and collaborate! 🌐🤝.
 
+![linkedin](https://github.com/Zekud/zekud/assets/99693126/0f2dcf9b-1b15-4e36-a0c9-50639d9afc0d)
+![telegram](https://github.com/Zekud/zekud/assets/99693126/fb2958b0-0a49-4c0a-ae89-2f096cb8a048)
 
+
+![instagram]()
 
 
 
