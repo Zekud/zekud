@@ -36,8 +36,8 @@ I am curious about Web development👨‍💻👨‍💻 and programming😎.
 </p>
 
 📱 Let's connect:
-- Instagram: <a href="https://instagram.com/z.e.k.u.a"><img src="https://github.com/Zekud/zekud/assets/99693126/93d13b46-00ff-4c73-beaf-e40c3b69adf8" alt="instagram-logo" width="30" height="30"/></a>
-- Telegram: <a href="https://t.me/Zekua12"><img src="https://github.com/Zekud/zekud/assets/99693126/fb2958b0-0a49-4c0a-ae89-2f096cb8a048" alt="telegram-logo" width="30" height="30"/></a>
+- Instagram: <a href="https://instagram.com/z.e.k.u.a"><img src="https://github.com/Zekud/zekud/blob/main/instagram.png" alt="instagram-logo" width="30" height="30"/></a>
+- Telegram: <a href="https://t.me/Zekua12"><img src="" alt="telegram-logo" width="30" height="30"/></a>
 - LinkedIn: <a href="https://www.linkedin.com/in/zekariyas-kumsa"><img src="https://github.com/Zekud/zekud/assets/99693126/0f2dcf9b-1b15-4e36-a0c9-50639d9afc0d" alt="linkedin-logo" width="30" height="30"/></a>
   
 Feel free to reach out on any of these platforms. Let's chat, share ideas, and collaborate! 🌐🤝.
