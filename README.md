@@ -38,7 +38,7 @@ I am curious about Web development👨‍💻👨‍💻 and programming😎.
 📱 Let's connect:
 - Instagram: [@Zekua](https://instagram.com/z.e.k.u.a)
 - Telegram: [@Zekua12](https://t.me/Zekua12)
-- LinkedIn: [Zekariyas Kumsa](https://www.linkedin.com/in/zekariyas-kumsa)
+- LinkedIn: [<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons"></a>](https://www.linkedin.com/in/zekariyas-kumsa)
   
 Feel free to reach out on any of these platforms. Let's chat, share ideas, and collaborate! 🌐🤝.
 
