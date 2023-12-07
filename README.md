@@ -1,27 +1,12 @@
-### Hi there 👋, Welcome!
+### Hi there 👋, Welcome to my GitHub!
 
-<!--
-**Zekud/zekud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some exciting details about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am <b>Zekariyas Kumsa</b> and I am software enginnering student at Addis Ababa Science and Technology University(<b>AASTU</b>).
-I am curious about Web development👨‍💻👨‍💻 and programming😎.
-
-🔭 I've already learnt react and  currently working on some projects.
-
-👯 I’m looking for internship opportunities and collaborate on react projects.
-
-⚡ Fun fact: Did you know that honey never spoils? Just like good code, honey stands the test of time 🍯👩‍💻 #CodeAndHoney.
+- 🔭 I’m currently crafting awesome projects with my coding skills!
+- 🌱 I’m always eager for knowledge and exploring the vast world of web development.
+- 👯 I’m on the lookout for internship opportunities and eager to collaborate on React projects.
+- ⚡ Fun fact: Did you know that honey never spoils? Just like good code, honey stands the test of time 🍯👩‍💻.
 
 👋 Pronouns: He/him. Just like code, clear communication is key!".
 
@@ -33,8 +18,8 @@ I am curious about Web development👨‍💻👨‍💻 and programming😎.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="40"/>
-  
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt"bootstrap" width="40" height="40"/>
 </p>
 
 📱 Let's connect:
