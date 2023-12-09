@@ -6,7 +6,7 @@ Here are some exciting details about me:
 - 🔭 I’m currently crafting awesome projects with my coding skills!
 - 🌱 I’m always eager for knowledge and exploring the vast world of web development.
 - 👯 I’m on the lookout for internship opportunities and eager to collaborate on React projects.
-- ⚡ Fun fact: Did you know that honey never spoils? Just like good code, honey stands the test of time 🍯👩‍💻.
+- ⚡ Fun fact: Did you know why Java developers wear glass, because they can't  C. 👨‍💻😂
 
 👋 Pronouns: He/him. Just like code, clear communication is key!".
 
