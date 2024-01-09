@@ -6,7 +6,7 @@ Here are some exciting details about me:
 - 🔭 I’m currently crafting awesome projects with my coding skills!
 - 🌱 I’m always eager for knowledge and exploring the vast world of web development.
 - 👯 I’m on the lookout for internship opportunities and eager to collaborate on React projects.
-- ⚡ Fun fact: Did you know why Java developers wear glass, because they can't  C. 👨‍💻😂
+- ⚡ Fun fact: Did you know why Java developers wear glasses, because they can't  C. 👨‍💻😂
 
 👋 Pronouns: He/him. Just like code, clear communication is key!".
 
@@ -26,7 +26,9 @@ Here are some exciting details about me:
 - Instagram: <a href="https://instagram.com/z.e.k.u.a"><img src="https://github.com/Zekud/zekud/blob/main/instagram.png" alt="instagram-logo" width="30" height="30"/></a>
 - Telegram: <a href="https://t.me/Zekua12"><img src="https://github.com/Zekud/zekud/blob/main/telegram.png" alt="telegram-logo" width="30" height="30"/></a>
 - LinkedIn: <a href="https://www.linkedin.com/in/zekariyas-kumsa"><img src="https://github.com/Zekud/zekud/blob/main/linkedin.png" alt="linkedin-logo" width="30" height="30"/></a>
-  
+
+🌐 Portfolio: [zekua.me](https://zekua.me)
+
 Feel free to reach out on any of these platforms. Let's chat, share ideas, and collaborate! 🌐🤝.
 
 
