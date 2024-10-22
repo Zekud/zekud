@@ -32,7 +32,7 @@ Here are some exciting details about me:
 - Telegram: <a href="https://t.me/Zekua12"><img src="https://github.com/Zekud/zekud/blob/main/telegram.png" alt="telegram-logo" width="30" height="30"/></a>
 
 
-🌐 Portfolio: [zekua.me](https://zekua.me)
+🌐 Portfolio: [zekua.tech](https://zekua.tech)
 
 Feel free to reach out on any of these platforms. Let's chat, share ideas, and collaborate! 🌐🤝.
 
