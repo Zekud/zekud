@@ -14,13 +14,13 @@ As a **Full Stack Developer**, here are my core capabilities:
 - 📱 Develop mobile-first, cross-browser compatible applications
 
 ### ⚙️ **Backend Development**
-- 🔧 Design and build REST APIs with **Node.js** & **Express.js**
+- 🔧 Design and build REST APIs with **Go**, **Node.js** & **Express.js**
 - 🗄️ Database design and management (**MongoDB**, **MySQL**, **PostgreSQL**)
 - 🔐 Implement authentication, authorization, and security best practices
 - ☁️ Deploy and manage applications on cloud platforms
 
 ### 🛠️ **Technical Skills**
-- 💻 **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3
+- 💻 **Languages:** JavaScript, TypeScript, Go, Python, HTML5, CSS3
 - 🚀 **Frameworks:** React.js, Node.js, Express.js, TailwindCSS
 - 🗃️ **Databases:** MongoDB, MySQL, PostgreSQL
 - 🔧 **Tools:** Git, GitHub, Firebase, VS Code
@@ -50,6 +50,7 @@ As a **Full Stack Developer**, here are my core capabilities:
 ### **Languages:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,6 +61,7 @@ As a **Full Stack Developer**, here are my core capabilities:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend:**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
@@ -105,13 +107,13 @@ As a **Full Stack Developer**, here are my core capabilities:
 
 ## 🎯 Let's Connect!
 
-💬 **Ask me about:** React, Node.js, MongoDB, Full Stack Development, or anything tech-related!  
+💬 **Ask me about:** React, Node.js, Go, MongoDB, REST APIs, Full Stack Development, or anything tech-related!  
 📧 **How to reach me:** Connect with me on LinkedIn or check out my portfolio  
 ⚡ **Quick fact:** I love solving algorithms and building projects that make a difference!
 
 ### 🤝 Open for Collaboration:
 - 🌟 **Full Stack Web Applications**
-- 🔗 **API Development & Integration** 
+- 🔗 **REST API Development (Go, Node.js)** 
 - 📱 **Responsive Frontend Projects**
 - 🗄️ **Database Design & Optimization**
 - 🚀 **Open Source Contributions**
