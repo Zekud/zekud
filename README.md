@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Full Stack Web Developer and currently I am crafting awesome projects with my coding skills!<br>👨‍💻 All of my projects are available at [My Portfolio](https://zekua.tech)<br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/19eftkhrRFT-8mm8JzfaVHcEwdgdJxprf/view)<br>🌱 I’m always eager for knowledge and exploring the vast world of web development.<br>👯 I’m on the lookout for opportunities and eager to collaborate on Fullstack web projects.<br>⚡ Fun fact: Did you know why Java developers wear glasses, because they can't C. 👨‍💻😂
+🔭 I’m Full Stack Web Developer and currently I am crafting awesome projects with my coding skills!<br>👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-nine-sigma-22.vercel.app/)<br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/19eftkhrRFT-8mm8JzfaVHcEwdgdJxprf/view)<br>🌱 I’m always eager for knowledge and exploring the vast world of web development.<br>👯 I’m on the lookout for opportunities and eager to collaborate on Fullstack web projects.<br>⚡ Fun fact: Did you know why Java developers wear glasses, because they can't C. 👨‍💻😂
 
 ---
 
